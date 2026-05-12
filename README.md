@@ -52,13 +52,13 @@ This project was developed as an internal operational tool for administrative su
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshot/dashboard.png)
 
 ### Data List Of Name
-![Form](screenshots/infopage.png)
+![Form](screenshot/infopage.png)
 
 ### Data Entry Form
-![Form](screenshots/formpage.png)
+![Form](screenshot/formpage.png)
 
 ### Export Feature
-![Export](screenshots/export.png)
+![Export](screenshot/export.png)
