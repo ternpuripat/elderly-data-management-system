@@ -61,3 +61,17 @@ The system helps manage elderly citizen records, generate reports, and reduce ma
 ## Notes
 
 This project was developed as an internal operational tool for administrative support purposes.
+
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Data List Of Name
+![Form](screenshots/infopage.png)
+
+### Data Entry Form
+![Form](screenshots/formpage.png)
+
+### Export Feature
+![Export](screenshots/export.png)
